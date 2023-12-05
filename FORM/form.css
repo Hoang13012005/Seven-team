@@ -1,0 +1,109 @@
+html{
+    background-color: #1E1E1E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+   display: flex;
+   flex-direction: column;
+   width: 360px;
+   align-items: center;
+   height: 800px;    
+   background-color: white;
+   margin: auto;
+   margin-top: 10%;
+}
+h1{
+    width: 200px;
+    font-size: 24px;
+    text-align: center;
+    flex-direction: column-reverse; 
+    margin-top: 60px;
+
+}
+h2{
+    text-align: center;
+}
+.chu{
+    margin-top: -10px;
+    width: 250px;
+}
+a{
+    text-decoration: none;
+    color: #2F89FC;
+    padding-top: 20px;
+}
+hr{
+    width: 280px;
+    border: 1px solid #7F7F7F;
+}
+label{
+    margin-top: -21px;
+    margin-bottom: 20px;
+    border: 1px;
+    background-color: white;
+    width: 30px;
+    padding-left: 13px;
+}
+.dau{
+    width: 312px;
+    height: 48px;
+    margin-top: 20px;
+    border-radius: 10px;
+    border: 1px solid #989898;
+    font-size: 12px;
+    outline: none;
+}
+.giua{
+    width: 312px;
+    height: 48px;
+    border-radius: 5px;
+    background-color: #0E64D2;
+    color: white;
+    border: 1px solid #0E64D2;
+    font-size: 14px
+    ;
+    margin-top: 20px;
+}
+.quen{
+    margin-top: 10px;
+    margin-bottom: 10px;    
+}
+.cuoi{
+   background-image: url(./picture/facebook\ logo.png);
+   background-repeat: no-repeat;
+   background-position: 26px;
+   width: 312px;
+   height: 48px;
+   color: white;
+   border-radius: 10px;
+   background-color: #1877F2;
+   border: 1px solid #1877F2;
+}
+.cuoi1{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    border: 1px solid #989898;
+    background-color: white;
+    background-image: url(./picture/google\ logo.png);
+    background-repeat: no-repeat;
+    background-position: 26px;
+    margin-top: 10px;
+}
+.cuoi3{
+    width: 312px;
+    margin-top: 50px;
+    display: flex;
+}
+.cuoi3 img{
+    width: 48px;
+    height: 48px;
+    margin-top: 10px;
+}
+.chu1{
+    font-family:fantasy;
+    font-size: 12px;
+    font-weight: 100;
+    margin-left: 10px;
+    color: #7F7F7F;
+}
