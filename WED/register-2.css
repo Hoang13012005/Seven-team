@@ -1,0 +1,211 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #dcdcdc;
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1440px;
+    height: 1797px;
+    background-color: #fafafa;
+}
+a{
+    text-decoration: none;
+}
+.header-5{
+    width: 1332px;
+    height: 91px;
+    display: flex;
+    margin-left: 60px;
+}
+.narbav1 h1{
+    padding-top: 10px;
+    padding-left: 100px;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}
+.narbav2{
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.narbav2 a{
+    color: black;
+    font-size: 14px;
+    padding-left: 15px;
+}
+/* ----------------------------------------------------sign up----------------------------------- */
+.sign-up{
+    width: 1262px;
+    height: 1190px;
+    border-radius: 28px;
+    background-color: white;
+    margin-left: 6%;
+}
+.start h1{
+    padding-top: 50px;
+    text-align: center;
+    font-size: 30px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #FF790D;
+}
+.start p {
+    margin-left: 100px;
+    font-size: 22px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #4d4d4d;
+
+}
+.chon{
+    display: flex;
+}
+.chon h2{
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+    padding-left: 150px;
+    padding-top: 30px;
+}
+.met{
+    margin-left: 135px;
+    padding: 15px;
+    display: flex;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+}
+.firm{
+    margin-right: 50px;
+}
+.chon2{
+    margin-top: 50px;
+    margin-left: 150px;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 24px;
+}
+#firm3{
+    width: 400px;
+    height: 36px;
+    outline: none;
+    border-radius: 3px;
+    border: 1px solid #DFE1E6;
+    padding-left: 10px;
+    color: #7A869A;
+    font-size: 16px;
+    background-color: #DFE1E6;
+}
+option{
+    font-size: 30px;
+    color: #223047;   
+}
+.dai{
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 1062px;
+}
+.dai1{
+    display: flex;
+}
+.dai12{
+    margin-top: 175px;
+}
+.dai input[type="text"], input[type="number"], input[type="email"]{
+    border: none;
+    border-bottom: 1px solid #000000;
+    width: 500px;
+    margin-top: 10px;
+    font-size: 22px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    margin-top: 50px;
+    color: #4d4d4d;
+    outline: none;
+}
+#address{
+    width: 1100px;
+}
+.dai2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.oke{
+    margin-top: 80px;
+}
+.oke input[type="submit"]{
+    width: 200px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    background-color: #FF790D;
+    font-size: 25px;
+    line-height: 24px;
+    color: white;
+    margin-left: 531px;
+}
+.oke2{
+    display: flex;
+    margin-top: 20px;
+}
+.oke2 a{
+    color: #FF790D;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-size: 22px;
+    line-height: 24px;
+}
+.oke2 p{
+    font-size: 22px;
+    line-height: 24px;
+    padding-left: 480px;
+}
+/* -----------------------------------------footer-1------------------------------------------------------------ */
+.end1{
+    width: 1440px;
+    height: 350px;
+    display: flex;
+    padding-top: 30px;
+    background-color: white;
+    margin-top: 60px;
+}
+.end1 h3{
+    font-size: 24px;
+    list-style: 32px;
+    font-weight: 700;
+}
+.end1 a{
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    color: #737373;
+}
+.het1{
+    width: 238px;
+    margin-left: 200px;
+    margin-right: 100px;
+}
+.het1 p{
+    font-size: 14px;
+}
+.het2{
+    width: 241px;
+    margin-right: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.het3{
+    display: flex;
+    flex-direction: column;
+}
+.end2{
+    width: 1440px;
+    height: 76px;
+    margin-top: -55px;
+    background-color: #fafafa;
+    text-align: center;
+    padding-top: 30px;
+}

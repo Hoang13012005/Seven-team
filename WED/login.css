@@ -1,0 +1,107 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1440px;
+    height: 883px;
+    background-color: #FAFAFA;
+    margin-top: 10%;
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+.narbav-style{
+    display: flex;
+    height: 91px;
+    margin-left: 190px;
+    padding-top: 30px;
+}
+.narbav-style h1{
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}   
+.collape-narbav{
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.login{
+    display: flex;
+
+}
+.login img{
+    width: 742px;
+    height: 420px;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+.login1{
+    margin-top: 40px;
+    margin-left: 73px;
+    width: 500px;
+    height: 631px;
+    border-radius: 30px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+.login1 h1{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #FF790D;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}
+.input{
+    width: 375px;
+    height: 37px;
+    border-bottom: 1px solid #000000;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-top: 40px;
+    margin-left: 50px;
+    font-size: 22px;
+    font-weight: 500;
+    outline: none;
+}
+.login1 a{
+    margin-top: 20px;
+    margin-left: 295px;
+}
+.login2{
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    border: 1px solid white;
+    background-color: #FF790D;
+    color: white;
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 170px;
+}
+.cuoi{
+    display: flex;
+}
+.cuoi p{
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.cuoi a{
+    color: #FF790D;
+    font-weight: 400;
+    margin-left: -120px;
+    width: 100px;
+}
+
+

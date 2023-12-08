@@ -1,0 +1,99 @@
+html{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #DCDCDC;
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1440px;
+    height: 883px;
+    background-color: #FAFAFA;
+    margin-top: 10%;
+}
+a{
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+}
+.narbav-style{
+    display: flex;
+    height: 91px;
+    margin-left: 190px;
+    padding-top: 30px;
+}
+.narbav-style h1{
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 700;
+}   
+.collape-narbav{
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: 20px;
+    margin-left: 600px;
+}
+.login{
+    display: flex;
+    width: 718px;
+    height: 631px;
+    background-color: white;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.login h1{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 24px;
+    padding-top: 20px;
+}
+.login h2{
+    font-weight: 500;
+    font-size: 22px;
+    width: 520px;
+    margin-left: 100px;
+}
+.otp{
+    margin-top: 100px;
+}
+.box{
+    width: 30px;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid #4d4d4d;
+    margin-left: 20px;
+    outline: none;
+    font-size: 20px;
+    padding-left: 25px;
+    font-weight: 900;
+}
+.box:focus{
+    border-bottom: 1px solid #FF790D;
+    color: red;
+}
+.login input[type="submit"]{
+    margin-top: 100px;
+    width: 150px;
+    height: 60px;
+    border-radius: 30px;
+    border: none;
+    outline: none;
+    background-color: #FF790D;
+    color: white;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 284px;
+}
+.login a{
+    color: #FF790D;
+    margin-top: 25px;
+    font-size: 22px;
+    font-weight: 600;
+}
+.login p{
+    font-size: 22px;
+    padding-top: 20px;
+}
