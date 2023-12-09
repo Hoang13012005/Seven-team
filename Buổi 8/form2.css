@@ -1,0 +1,77 @@
+html{
+    background-color: #1E1E1E;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    
+        display: flex;
+        flex-direction: column;
+        width: 360px;
+        align-items: center;
+        height: 800px;    
+        background-color: white;
+        margin: auto;
+        margin-top: 10%;
+}
+h1{
+    padding-top: 50px;
+    font-size: 24px;
+    font-weight: 600;
+}
+.head{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 1px solid #989898;
+    outline: none;
+}
+hr{
+    width: 250px;
+    margin-top: 7px;
+}
+label{
+    margin-top: -21px;
+    margin-bottom: 20px;
+    border: 1px;
+    background-color: white;
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.head2{
+    width: 312px;
+    height: 48px;
+    border-radius: 5px;
+    margin-top: 20px;
+    background-color: #0E64D2;
+    border: 1px solid #0E64D2;
+    color: white;
+    font-size: 14px;
+}
+a{
+    text-decoration: none;
+    color: #2F89FC;
+}
+.head3{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: #2F89FC;
+    color: white;
+    border: 1px solid #2F89FC;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-image: url(./logo/logo_fb.png);
+    background-repeat: no-repeat;
+    background-position: 26px;
+}
+.head4{
+    width: 312px;
+    height: 48px;
+    border-radius: 10px;
+    background-color: white;
+    border: 1px solid #989898;
+    background-image: url(./logo/logo_gg.png);
+    background-repeat: no-repeat;
+    background-position: 26px;
+}
